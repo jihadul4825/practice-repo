@@ -1,4 +1,4 @@
 # practice-repo
 This is my first Git Repository.
 <br>
-Author - Jihadul Islam
+Author - Jihadul Islam (Apna collage)
